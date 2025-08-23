@@ -6,9 +6,10 @@
 
 Репозиторий организован (почти) как обзорная статья.
 
-1. [Постановка проблемы](./src/problem.md)
-2. [Основные приемы](./src/approaches.md)
-3. [Выжимки статей](./src/papers/README.md)
+1. [Введение](./src/intro.md)
+2. [Подходы](./src/approaches.md)
+3. [Проблемы](./src/problems.md)
+4. [Выжимки статей](./src/papers/README.md)
     - [MemoryBank, 2023](./src/papers/memorybank.md)
     - [RAPTOR, 2024](./src/papers/raptor.md)
     - [MemGPT, 2024](./src/papers/memgpt.md)
