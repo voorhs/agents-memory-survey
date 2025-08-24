@@ -1,5 +1,6 @@
-<img align="center" src="https://github.com/user-attachments/assets/6608a7dd-213c-431b-a0d3-1c6aafcc354e" width="170" alt="ay i">
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/6608a7dd-213c-431b-a0d3-1c6aafcc354e" width="170" alt="ay i">
+</p>
 <h1 align="center">
 Agents Memory Survey
 </h1>
