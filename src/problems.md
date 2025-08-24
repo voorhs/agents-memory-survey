@@ -1,6 +1,6 @@
 # Проблемы реализации памяти
 
-<img align="right" width="400" src="./problems.png">
+<img align="right" width="400" src="./pics/problems.png">
 
 ## Проблема гранулярности
 
