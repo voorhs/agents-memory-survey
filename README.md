@@ -1,4 +1,4 @@
-<img align="center" src="./src/pics/logo.png" width="170" alt="ay i">
+<img align="center" src="https://github.com/user-attachments/assets/6608a7dd-213c-431b-a0d3-1c6aafcc354e" width="170" alt="ay i">
 
 <h1 align="center">
 Agents Memory Survey
