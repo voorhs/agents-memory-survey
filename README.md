@@ -1,4 +1,10 @@
-# Agents Memory Survey
+<p align="center">
+    <img src="./pics/logo.png" width="170" alt="Zep Logo">
+</p>
+
+<h1 align="center">
+Agents Memory Survey
+</h1>
 
 Обзор подходов к организации памяти для LLM агентов. Цель — дать общую интуицию о том, как создаются механизмы памяти, отразить мое личное понимание текущего состояния этой области.
 
