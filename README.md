@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./pics/logo.png" width="170" alt="Zep Logo">
+    <img src="./src/pics/logo.png" width="170" alt="ay i">
 </p>
 
 <h1 align="center">
