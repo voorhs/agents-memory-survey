@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="./src/pics/logo.png" width="170" alt="ay i">
-</p>
+<img align="center" src="./src/pics/logo.png" width="170" alt="ay i">
 
 <h1 align="center">
 Agents Memory Survey
