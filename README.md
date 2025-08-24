@@ -13,7 +13,7 @@ Agents Memory Survey
 
 Репозиторий организован (почти) как обзорная статья.
 
-1. [Введение](./src/intro.md)
-2. [Подходы](./src/approaches.md)
-3. [Проблемы](./src/problems.md)
-4. [Литература](./src/literature.md)
+1. [Введение](./src/01-intro.md)
+2. [Подходы](./src/02-approaches.md)
+3. [Проблемы](./src/03-problems.md)
+4. [Литература](./src/04-literature.md)
